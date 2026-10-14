@@ -1,3 +1,5 @@
+<img width="3584" height="1184" alt="sarkerCode-full-stack-developer" src="https://github.com/user-attachments/assets/76ca1cb4-ba1e-49b2-8948-44e53cb8788b" />
+
 <h1 align="center">Hi 👋, I'm Rukunujjaman Sarker</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
